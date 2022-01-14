@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Some Useful Links for You to Get Started	</title>
-	<atom:link href="https:///welcome-to-cloudways/feed/" rel="self" type="application/rss+xml" />
-	<link>https:///welcome-to-cloudways/</link>
+	<atom:link href="https://santas.in/welcome-to-cloudways/feed/" rel="self" type="application/rss+xml" />
+	<link>https://santas.in/welcome-to-cloudways/</link>
 	<description>Only Good Memories</description>
 	<lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https:///welcome-to-cloudways/#comment-2</link>
+		<link>https://santas.in/welcome-to-cloudways/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https:///?p=1#comment-2</guid>
+		<guid isPermaLink="false">https://santas.in/?p=1#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

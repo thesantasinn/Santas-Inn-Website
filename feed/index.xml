@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Santas Inn &#8211; Best Service Apartment  in Madurai</title>
-	<atom:link href="https:///feed/" rel="self" type="application/rss+xml" />
-	<link>https:///</link>
+	<atom:link href="https://santas.in/feed/" rel="self" type="application/rss+xml" />
+	<link>https://santas.in/</link>
 	<description>Only Good Memories</description>
 	<lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https:///wp-content/uploads/2021/03/cropped-cropped-santas-inn-logo-1-32x32.png</url>
+	<url>https://santas.in/wp-content/uploads/2021/03/cropped-cropped-santas-inn-logo-1-32x32.png</url>
 	<title>Santas Inn &#8211; Best Service Apartment  in Madurai</title>
-	<link>https:///</link>
+	<link>https://santas.in/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Some Useful Links for You to Get Started</title>
-		<link>https:///welcome-to-cloudways/</link>
-					<comments>https:///welcome-to-cloudways/#comments</comments>
+		<link>https://santas.in/welcome-to-cloudways/</link>
+					<comments>https://santas.in/welcome-to-cloudways/#comments</comments>
 		
 		<dc:creator><![CDATA[Nithin Jawahar]]></dc:creator>
 		<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https:///?p=1</guid>
+		<guid isPermaLink="false">https://santas.in/?p=1</guid>
 
 					<description><![CDATA[It seems like you’re running a default WordPress website. Here are a few useful links to get you started: Migration How to use WordPress Migrator Plugin? Migrate WordPress from Siteground to Cloudways Migrate WordPress from GoDaddy to Cloudways General How do I take my website live from Cloudways? How to manage WordPress via WP-CLI on [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>It seems like you’re running a default WordPress website. Here are a few useful links to get you started:</p>
@@ -93,7 +93,7 @@
 
 </ul>]]></content:encoded>
 					
-					<wfw:commentRss>https:///welcome-to-cloudways/feed/</wfw:commentRss>
+					<wfw:commentRss>https://santas.in/welcome-to-cloudways/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
